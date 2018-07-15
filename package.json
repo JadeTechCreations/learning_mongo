@@ -1,0 +1,16 @@
+{
+  "name": "@jadetechcreations/learning_mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "jadetechcreations",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^17.5.2",
+    "mongodb": "^3.1.1"
+  }
+}
